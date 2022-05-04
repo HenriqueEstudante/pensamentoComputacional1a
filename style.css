@@ -1,5 +1,5 @@
 body{
-    background: #ccccb9;
+    background: #CCCCB9;
 }
 h1{
     text-align: center;
@@ -10,9 +10,8 @@ p {
 }
 
 em {
-    color: #7F1E47
+    color: #7F1E47;
 }
-
 
 .logo {
     width: 25%; 
