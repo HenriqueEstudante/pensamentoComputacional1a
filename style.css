@@ -1,5 +1,9 @@
 body{
-    background: #CCCCB9;
+    background: #f8f8f6;
+}
+
+.texto{
+    background-color: #c0c0c0;
 }
 
 h1{
@@ -20,3 +24,6 @@ em {
     margin-left: 37%;
 }
 
+.imagem {
+    width: 100%;
+}
