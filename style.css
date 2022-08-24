@@ -3,8 +3,14 @@ body{
     background-size: auto;
 }
 
+
 .titulo{
     margin-top: 10%;
+}
+
+.ilustracao{
+    width: 50%;
+    margin-left: 24%;
 }
 
 .texto{
